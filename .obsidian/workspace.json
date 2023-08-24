@@ -13,21 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Data Structures/1 - Singly-Linked List.md",
-                "mode": "source",
+                "file": "2 - Core Competencies/3 - Apply Programming Skills For In-Game Application.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "60091751d19469d7",
+        "type": "tabs",
+        "children": [
           {
             "id": "c4296ad27106296f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1 - Self Assessment Guide/Notes/1.1 Formulating Game Program Logic.md",
-                "mode": "source",
-                "source": false
+                "file": "OOP.canvas",
+                "viewState": {
+                  "x": -320,
+                  "y": -820,
+                  "zoom": -2.1593078940682835
+                }
               }
             }
           }
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Data Structures/1 - Singly-Linked List.md",
+                "file": "OOP.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Data Structures/1 - Singly-Linked List.md",
+                "file": "OOP.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Data Structures/1 - Singly-Linked List.md"
+                "file": "OOP.canvas"
               }
             }
           }
@@ -160,23 +169,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9404b9fa8ea2d3d",
+  "active": "c4296ad27106296f",
   "lastOpenFiles": [
-    "1 - Self Assessment Guide/Notes/0 - Self Assessment Guide.md",
-    "1 - Self Assessment Guide/Notes/1.1 Formulating Game Program Logic.md",
+    "Data Structures.canvas",
+    "2 - Core Competencies/Notes/3 - Apply Programming Skills for In-Game Application.md",
+    "2 - Core Competencies/3 - Apply Programming Skills For In-Game Application.md",
+    "2 - Core Competencies/2 - Apply Object-Oriented Programming Language Skills.md",
+    "2 - Core Competencies/Notes/2 -  Apply Object-Oriented Programming Language Skills.md",
+    "2 - Core Competencies/Notes/1 - Design Game Program Logic.md",
     "2 - Core Competencies/1 - Design Game Program Logic.md",
+    "OOP.canvas",
+    "1 - Self Assessment Guide/Notes/1.1 Formulating Game Program Logic.md",
     "1 - Self Assessment Guide/1 - 3D Game Art Development NC III.md",
-    "3 - TDD and GDD example/2.1 Technical Design Document.md",
-    "4 - Data Structures/1 - Singly-Linked List.md",
+    "1 - Self Assessment Guide/Notes/0 - Self Assessment Guide.md",
     "4 - Data Structures/2 - Doubly-Linked List.md",
+    "4 - Data Structures/1 - Singly-Linked List.md",
+    "3 - TDD and GDD example/2.1 Technical Design Document.md",
     "4 - Data Structures/4 - Queue.md",
     "3 - TDD and GDD example/1.1 Game Design Document.md",
     "3 - TDD and GDD example/1.2 GDD summary.md",
-    "2 - Core Competencies/2 - Apply Object-Oriented Programming Language Skills.md",
-    "2 - Core Competencies/3 - Apply Programming Skills For In-Game Application.md",
     "4 - Data Structures/3 - Stack.md",
-    "Data Structures.canvas",
-    "OOP.canvas",
     "4 - Data Structures",
     "5 - Sorting Algorithms/Counting Sort.md",
     "5 - Sorting Algorithms/Merge Sort.md",
@@ -187,10 +199,6 @@
     "1 - Self Assessment Guide/Notes/3.25 Optimize a Game Program Based on Project Requirements.md",
     "1 - Self Assessment Guide/Notes/3.24 Address Overall Game Design Concerns.md",
     "1 - Self Assessment Guide/Notes/3.22 Refine or Debug a System.md",
-    "1 - Self Assessment Guide/Notes/2.15 Test Codes.md",
-    "1 - Self Assessment Guide/Notes/3.21 Implement Iterative Prototyping Cycle Until Game Final Prototype Is Approved.md",
-    "1 - Self Assessment Guide/Notes/3.20 Apply Prototype Iteration Based on Evaluation Results.md",
-    "1 - Self Assessment Guide/Notes/3.19 Evaluate Prototype Based on GDD.md",
     "5 - Sorting Algorithms",
     "1 - Self Assessment Guide/Notes",
     "2 - Core Competencies/Notes",

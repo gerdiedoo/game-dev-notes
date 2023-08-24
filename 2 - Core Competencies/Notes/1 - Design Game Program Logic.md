@@ -1,0 +1,44 @@
+- Analyze game specifications
+	- How to review design documentations and requirements based on enterprise standards
+	- How to conceptualize game technical design based on client requirements
+	- how to identify the program scope and limits based on project requirements
+- Analyze game physics
+	- How to identify and solve physics problems or equations based on game design document
+	- How to determine maximum and/or minimum values, sketch curves, and determine the range for a given domain based on identified physics problem based on enterprise standards
+	- How to convert physics formulas from mathematical notations into syntax based on game design document
+	- How to apply differentiation based on game design document
+- Prepare technical game documentation
+	- How to transform requirements into technical design document according to enterprise standards
+	- How to illustrate program structures based on game design document
+	- How to identify and document special routines or procedures based on project requirements
+- Validate the technical game documentation
+	- How to check the technical design document for compliance with enterprise documentation standards
+	- How to check the technical design document based on project specifications
+	- How to review past project documentations for comparison with the technical design document
+
+#### Terminologies
+
+- Game Design Document (GDD)
+	 - A game design document (GDD) is a document that describes the design of a video game. It is used to communicate the game's vision to the development team, as well as to potential publishers and investors.
+	 - A GDD typically includes the following sections:
+		- **Executive summary:** This section provides a brief overview of the game, including its genre, target audience, and key features.
+		- **Gameplay:** This section describes the game's mechanics, objectives, and progression.
+		- **Story:** This section describes the game's narrative, characters, and setting.
+		- **Art style:** This section describes the game's visual style, including its characters, environments, and UI.
+		- **Technology:** This section describes the game's technical requirements, including its platform, engine, and art assets.
+		- **Budget:** This section estimates the game's development costs.
+		- **Schedule:** This section outlines the game's development timeline.
+		- **Marketing:** This section describes the game's marketing strategy.
+	- The level of detail in a GDD can vary depending on the size and complexity of the game. For a small indie game, a GDD may be a few pages long. For a large AAA game, a GDD could be hundreds of pages long.
+	- A GDD is a living document, meaning that it is constantly evolving as the game is developed. The GDD should be updated as new features are added, bugs are fixed, and the game's design changes.
+- Technical Design Document (TDD)
+	-   A technical design document (TDD) is a document that describes the technical aspects of a game, such as the game engine, programming language, art style, and gameplay mechanics. It is used to guide the development team in creating the game and to ensure that the game meets the design requirements.
+	- The TDD typically includes the following sections:
+		- **Introduction:** This section provides an overview of the game, including its genre, target audience, and key features.
+		- **Game Engine:** This section describes the game engine that will be used to develop the game.
+		- **Programming Language:** This section describes the programming language that will be used to develop the game.
+		- **Art Style:** This section describes the art style of the game, including the characters, environments, and objects.
+		- **Gameplay Mechanics:** This section describes the gameplay mechanics of the game, such as how the player will interact with the world and how the game will be won or lost.
+		- **Technical Requirements:** This section lists the technical requirements for the game, such as the hardware and software that will be needed to run the game.
+		- **Timeline and Budget:** This section outlines the timeline and budget for the development of the game.
+	- The TDD is a living document that should be updated as the game development progresses. It is an essential tool for any game development team, as it helps to ensure that the game is developed efficiently and meets the design requirements.

@@ -4,8 +4,6 @@
 	- Design documentation is obtained and the requirements for the game are reviewed and clarified based on enterprise standards.
 	- Game technical design is conceptualized based on client requirements.
 	- Program scope and limits are identified/clarified based on project requirements.
-		- determine what is possible based on the client's given timeframe, and available technologies
-		- determine the technologies that the target market have, and identify what is the possible solution
 - Analyze game physics
 	- Identify & Solve physics problems/equations based on GDD.
 	- Determine maximum and/or minimum values, sketch curves, and determine the range for a given domain based on identified physics problem based on enterprise standards.

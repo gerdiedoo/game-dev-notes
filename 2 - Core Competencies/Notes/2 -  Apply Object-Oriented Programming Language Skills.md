@@ -1,0 +1,21 @@
+
+- Apply basic language syntax and layout
+	- How to follow the best practices and the basic language syntax
+	- How to use language data-types, operators, and expressions in accordance with the game-code standards
+	- How to use the appropriate language syntax for sequence, selection, and iteration constructs to achieve robust and efficient code
+- Apply basic OO principles in the target language
+	- How to implement a class that contains primitive member or instance variables
+	- How to implement a class that contains multiple options for object construction
+	- How to enforce class security using encapsulation
+	- How to implement inheritance to at least two levels of depth
+	- How to use polymorphism at a simple level through inheritance to enable easy code extension
+- Debug code
+	- How to use and IDE and its language debugging facilities
+	- how to use program debugging techniques to detect and resolve errors
+- Document Activities
+	- How to develop maintainable code adhering to a set of coding standard
+	- How to follow and use internal documentation standards
+- Test code
+	- How to develop and conduct simple test to confirm the coding process meets design specification
+	- How to document tests
+	- How to make corrections to the code and the documentations

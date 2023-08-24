@@ -1,0 +1,29 @@
+
+- Analyze technical design document
+	- How to obtain the game mechanics by analyzing the game design document and the technical design document
+	- How to derive the technical storyboard and its corresponding pseudo code from the game design document and the technical design document
+	- How to set up the necessary hardware and software to compile and run according to development environment requirements
+	- How to set up the source code control according to company requirements
+- Appy basic language syntax and layout
+	- How to apply the basic language syntax rules and best practices based on enterprise standards
+	- how to optimize the language data types, operators, and expressions in accordance with gamecode standards
+	- how to use and customize the language syntax for sequence, selection, and iteration constructs to achieve robust efficient code
+- Develop working prototype
+	- How to identify the game module per iteration in line with enterprise policies
+	- How to define and explain the game loop in line with key concept and target platform
+	- How to create and implement program code in accordance with specifications for the game module in the technical design document
+	- How to use mathematical concepts and techniques in controlling and implementing game systems
+	- How to use style and design principles to solve common game programming problems
+	- How to use and customize data structures and algorithms to ensure robust and fast implementation of game systems
+	- How to identify and apply appropriate design patters in creating initial prototype
+	- How to integrate and review different assets based on the game design document and technical design document
+- Test prototype
+	- How to execute the prototype and check workability
+	- How to evaluate the prototype based on the evaluation results
+	- How to incorporate the improvements and any lessons learned and possible recommendations in the prototype
+	- How to implement iterative prototyping cycle until the final game prototype is approved in accordance with enterprise policies
+- Refine and Debug system
+	- How to utilize the game prototype for game quality assurance or testing techniques for use acceptability testing
+	- How to address and fix the identified program errors in accordance with quality standards
+	- How to address the overall game design concerns including usability and accessibility issues based on game quality assurance and testing techniques
+	- How to optimize game program based on project requirements

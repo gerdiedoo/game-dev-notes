@@ -1,14 +1,10 @@
 ```
 #include <iostream>
 
-  
-
 using std::string;
 using std::cin;
 using std::cout;
 using std::endl;
-
-  
 
 // Making a node struct containing an int data and a pointer
 // to next node
