@@ -4,52 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "3043f0ec82bfc0a6",
+        "id": "489eb1d9c7ad263d",
         "type": "tabs",
-        "dimension": 53.045685279187815,
         "children": [
           {
-            "id": "321d223795ba87ba",
+            "id": "d9404b9fa8ea2d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorting Algorithms/Counting Sort.md",
+                "file": "4 - Data Structures/1 - Singly-Linked List.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cdb8ba1ffda1f84a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "OOP.canvas",
-                "viewState": {
-                  "x": 269.6446700507615,
-                  "y": -1123.756345177665,
-                  "zoom": -2.1593078940682835
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ae808562a73e65fe",
-        "type": "tabs",
-        "dimension": 46.954314720812185,
-        "children": [
-          {
-            "id": "b80cb7bd68d7c42b",
+            "id": "c4296ad27106296f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Assessment Guide/1 - 3D Game Art Development NC III.md",
-                "mode": "preview",
+                "file": "1 - Self Assessment Guide/Notes/1.1 Formulating Game Program Logic.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -120,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting Algorithms/Counting Sort.md",
+                "file": "4 - Data Structures/1 - Singly-Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorting Algorithms/Counting Sort.md",
+                "file": "4 - Data Structures/1 - Singly-Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorting Algorithms/Counting Sort.md"
+                "file": "4 - Data Structures/1 - Singly-Linked List.md"
               }
             }
           }
@@ -183,41 +160,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "321d223795ba87ba",
+  "active": "d9404b9fa8ea2d3d",
   "lastOpenFiles": [
-    "Sorting Algorithms/Merge Sort.md",
-    "Sorting Algorithms/Counting Sort.md",
-    "Sorting Algorithms/Quick Sort.md",
-    "Sorting Algorithms/Selection Sort.md",
-    "Self Assessment Guide/Notes/3.23 Assess Game Prototype to Follow Quality Assurance or Testing Techniques.md",
-    "Self Assessment Guide/Notes/2.17 Document Activities.md",
-    "Self Assessment Guide/Notes/3.25 Optimize a Game Program Based on Project Requirements.md",
-    "Self Assessment Guide/Notes/3.24 Address Overall Game Design Concerns.md",
-    "Self Assessment Guide/Notes/3.22 Refine or Debug a System.md",
-    "Self Assessment Guide/Notes/2.15 Test Codes.md",
-    "Self Assessment Guide/Notes/3.21 Implement Iterative Prototyping Cycle Until Game Final Prototype Is Approved.md",
-    "Self Assessment Guide/Notes/3.20 Apply Prototype Iteration Based on Evaluation Results.md",
-    "Self Assessment Guide/Notes/3.19 Evaluate Prototype Based on GDD.md",
-    "Self Assessment Guide/Notes/3.18 Check Workability of the Prototype.md",
-    "Self Assessment Guide/Notes/3.17 Execute and Test the Game Application.md",
-    "Self Assessment Guide/Notes/3.16 Identify and Apply Appropriate Design Patterns in Coming Up with Initial Prototype.md",
-    "Self Assessment Guide/Notes/3.15 Use and Customize Data Structures and Algorithms to Ensure Robust and Fast Implementation of Game Systems.md",
-    "Self Assessment Guide/Notes/3.14 Use Style and Design Principles to Solve Common Game Programming Problems.md",
-    "Self Assessment Guide/Notes/3.13 Use Mathematical Concepts and Techniques in Controlling and Implementing Game Systems.md",
-    "Self Assessment Guide/Notes/3.12 Create and Implement Program Code.md",
-    "Self Assessment Guide/Notes/3.11 Define and Explain Game Loop.md",
-    "Self Assessment Guide/Notes/3.10 Identify Game Module per Iteration.md",
-    "Self Assessment Guide/Notes/3.9 Develop Working Prototype.md",
-    "Self Assessment Guide/Notes/3.8 Write Code for Game Application.md",
-    "Self Assessment Guide/Notes/2.8 Implement Inheritance to at Least Two Levels of Depth.md",
-    "Self Assessment Guide/Notes/3.7 Use and Customize Appropriate Language Syntax for Sequence, Selection, and Iteration Constructs.md",
-    "OOP.canvas",
+    "1 - Self Assessment Guide/Notes/0 - Self Assessment Guide.md",
+    "1 - Self Assessment Guide/Notes/1.1 Formulating Game Program Logic.md",
+    "2 - Core Competencies/1 - Design Game Program Logic.md",
+    "1 - Self Assessment Guide/1 - 3D Game Art Development NC III.md",
+    "3 - TDD and GDD example/2.1 Technical Design Document.md",
+    "4 - Data Structures/1 - Singly-Linked List.md",
+    "4 - Data Structures/2 - Doubly-Linked List.md",
+    "4 - Data Structures/4 - Queue.md",
+    "3 - TDD and GDD example/1.1 Game Design Document.md",
+    "3 - TDD and GDD example/1.2 GDD summary.md",
+    "2 - Core Competencies/2 - Apply Object-Oriented Programming Language Skills.md",
+    "2 - Core Competencies/3 - Apply Programming Skills For In-Game Application.md",
+    "4 - Data Structures/3 - Stack.md",
     "Data Structures.canvas",
-    "Sorting Algorithms",
-    "Self Assessment Guide/Notes",
-    "Core Competencies/Notes",
-    "TDD and GDD example",
-    "Self Assessment Guide",
-    "Core Competencies"
+    "OOP.canvas",
+    "4 - Data Structures",
+    "5 - Sorting Algorithms/Counting Sort.md",
+    "5 - Sorting Algorithms/Merge Sort.md",
+    "5 - Sorting Algorithms/Quick Sort.md",
+    "5 - Sorting Algorithms/Selection Sort.md",
+    "1 - Self Assessment Guide/Notes/3.23 Assess Game Prototype to Follow Quality Assurance or Testing Techniques.md",
+    "1 - Self Assessment Guide/Notes/2.17 Document Activities.md",
+    "1 - Self Assessment Guide/Notes/3.25 Optimize a Game Program Based on Project Requirements.md",
+    "1 - Self Assessment Guide/Notes/3.24 Address Overall Game Design Concerns.md",
+    "1 - Self Assessment Guide/Notes/3.22 Refine or Debug a System.md",
+    "1 - Self Assessment Guide/Notes/2.15 Test Codes.md",
+    "1 - Self Assessment Guide/Notes/3.21 Implement Iterative Prototyping Cycle Until Game Final Prototype Is Approved.md",
+    "1 - Self Assessment Guide/Notes/3.20 Apply Prototype Iteration Based on Evaluation Results.md",
+    "1 - Self Assessment Guide/Notes/3.19 Evaluate Prototype Based on GDD.md",
+    "5 - Sorting Algorithms",
+    "1 - Self Assessment Guide/Notes",
+    "2 - Core Competencies/Notes",
+    "3 - TDD and GDD example",
+    "1 - Self Assessment Guide",
+    "2 - Core Competencies"
   ]
 }
