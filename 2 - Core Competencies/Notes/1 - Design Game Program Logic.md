@@ -42,3 +42,46 @@
 		- **Technical Requirements:** This section lists the technical requirements for the game, such as the hardware and software that will be needed to run the game.
 		- **Timeline and Budget:** This section outlines the timeline and budget for the development of the game.
 	- The TDD is a living document that should be updated as the game development progresses. It is an essential tool for any game development team, as it helps to ensure that the game is developed efficiently and meets the design requirements.
+
+#### Evidence Guide
+
+- Critical Aspects of Competency
+	- Assessment requires evidence that the candidate:
+		- Technical game documentation is prepared
+		- Technical game documentation is validated
+		- Game program logic is formulated/designed
+- Required Knowledge and Attitude
+	- Mathematical and science concepts to
+		- Solve spatial problems in 2D and 3D
+		- Simulate movement (objects)
+		- Precision of movement (objects)
+	- Game logic design using construct/modules/objects
+	- concepts of various game program design and system lifecycle options
+	- Game system specifications and requirements
+	- Learning from multiple sources
+	- Researching using library and printed literature
+	- Understanding the expectation
+	- Organizing your thoughts
+	- Organizing projects
+- Required Skills
+	- Applying the use of various design documentation tools
+	- conceptualizing game technical design
+	- Designing and validating program logic and flow 
+	- Combine applicable game programming languages
+	- Using the search engines
+	- Understanding key terminology
+	- Draft a mind map
+	- Task allocation
+- Resource Implication
+	- To demonstrate this unity of competence the following resources will be required:
+		- Program or design specifications
+		- Documentation tools
+		- Personal computer or workstation
+- Methods of Assessment
+	- Competency may be assessed through:
+		- Observation of real or simulated work processes
+		- Individual demonstration with oral questioning
+		- Practical exam
+		- Portfolio assessment of work samples
+- Context of Assessment
+	- Competence may be assessed in the workplace or in a simulated work environment

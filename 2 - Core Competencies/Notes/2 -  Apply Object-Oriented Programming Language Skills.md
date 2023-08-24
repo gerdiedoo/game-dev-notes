@@ -19,3 +19,45 @@
 	- How to develop and conduct simple test to confirm the coding process meets design specification
 	- How to document tests
 	- How to make corrections to the code and the documentations
+
+### Evidence Guide
+
+- Critical Aspects of Competency 
+	- Assessment requires evidence that the candidate: 
+		- Basic language syntax and layout is applied 
+		- Basic object-oriented principles in the target languages is applied 
+		- Codes are debugged and tested 
+- Required Knowledge and Attitude 
+	- Understanding of Object oriented programming concepts 
+	- Object oriented programming language 
+	- Small size application development 
+	- Using a GUI to interact with operator 
+	- Learning from multiple sources 
+	- Problem solving 
+	- Coping with stress 
+	- Time management 
+- Required Skills 
+	- Reading and interpreting program specifications, translating requirements from problem space to machine space 
+	- Integrated Development environment usage 
+	- Programming techniques 
+	- Internal (code) documentation techniques 
+	- Testing and debugging techniques 
+	- Documentation techniques 
+	- Combine applicable game programming languages 
+	- Decision making process 
+	- Setting realistic goals 
+	- Develop a time frame for the project 
+- Resource Implications 
+	- To demonstrate this unit of competence the following resources will be required: 
+		- Programming language and development environment 
+		- User requirements and specification 
+		- Program and documentation standards 
+		- Personal computer or workstation 
+- Methods of Assessment 
+	- Competency may be assessed through: 
+		- Observation of real or simulated work processes 
+		- Individual demonstration with oral questioning 
+		- Practical exam 
+		- Portfolio assessment of work samples 
+- Context of Assessment 
+	- Competency may be assessed in the workplace or in a simulated work environment.
