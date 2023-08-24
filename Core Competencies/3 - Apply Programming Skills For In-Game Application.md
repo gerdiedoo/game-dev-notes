@@ -1,0 +1,208 @@
+*This unit defines the knowledge, skills and attitudes required to undertake game-programming tasks using a programming language. Competence includes development environment preparation, basic language syntax and layout application, game-related principles application, assets integration as well as debugging and testing techniques in support of the programming activity.*
+
+- Analyze TDD 
+	- Game Mechanics are obtained by analyzing the GDD and TDD. 
+	- Technical Storyboard and its corresponding pseudo code are derived from the GDD and TDD. 
+	- Necessary hardware/software is set up to code, compile and run according to development environment requirements. 
+	- Source code control is set up according to company requirements. 
+- Apply basic language syntax and layout 
+	- Basic language syntax rules and best practices are observed based on enterprise standards. 
+	- Language data types, operators and expressions are optimized and used in accordance with gamecode standards. 
+	- Language syntax for sequence, selection and iteration constructs are used and customized to achieve robust efficient code. 
+- Develop working prototype 
+	- Game module is identified per iteration in line with enterprise policies. 
+	- Game Loop is defined and explained in line with key concept and target platform. 
+	- Program code is created and implemented in accordance with specifications for the game module in the technical design document (TDD). 
+	- Mathematical concepts and techniques are used in controlling and implementing game systems. 
+	- Style and design principles are used to solve common game programming problems. 
+	- Data structures and algorithms are used and customized to ensure robust and fast implementation of game systems. 
+	- Appropriate design patterns are identified and applied in coming up with initial prototype. 
+	- Integrate and review different assets based on the GDD and TDD. 
+- Test prototype 
+	- Execute the prototype and check workability. 
+	- Prototype is evaluated based on GDD. 
+	- Prototype iteration is applied based on evaluation results. 
+	- Improvements and any lessons learned and possible recommendations are incorporated in prototype and documented. 
+	- Iterative prototyping cycle is implemented until game final prototype is approved in accordance with enterprise policies. 
+- Refine/Debug system 
+	- Game prototype is referred to game quality assurance (QA)/testing techniques for user acceptability testing. 
+	- Program errors identified are addressed and fixed in accordance with quality standards. 
+	- Overall game design concerns including usability and accessibility issues are addressed based on game quality assurance (QA)/testing techniques. 
+	- Game program is optimized based on project requirements.
+
+### Range of Variables
+
+- Game Mechanics 
+	- May include but not limited:
+		- Gameplay 
+		- Character behavior 
+		- Collision Specification 
+		- Game Progression 
+		- Rules 
+		- Limitations 
+		- Options 
+		- User Interaction 
+		- Game Systems 
+- Hardware 
+	- Windows PC 
+	- Mac 
+	- Linux - Ubuntu 
+- Software (IDE) 
+	- This may be any of the following languages, but are not limited: 
+	- Visual Studio 
+		- Express 
+		- Professional 
+	- Eclipse
+	- Unity 3D 
+		- Basic 
+		- Pro 
+	- Flash 
+	- Game engines 
+		- Unreal 
+		- Cry Engine  
+- Language 
+	- This may be any of the following languages, but not limited: 
+		- C / C++ 
+		- C# 
+		- Java 
+		- Python 
+		- ActionScript 
+- Mathematical concepts and techniques 
+	- Linear algebra 
+		- Vectors and matrices 
+	- Coordinate spaces and transformations 
+	- Geometry 
+		- Conic sections 
+		- Equation of a line
+	- Basic trigonometry 
+		- Angles 
+		- Primary Trigonometric Functions 
+	- Basic Differential Calculus 
+		- Limits 
+		- Polynomial differentiation 
+		- Basic integration 
+	- Basic Newtonian physics 
+		- Projectile motion 
+	- Collision detection 
+	- Discrete math 
+- Game systems 
+	- Graphics 
+	- Inputs 
+	- Gameplay 
+	- Physics 
+	- Basic artificial intelligence (flee and chase) 
+	- Sound 
+- Style and design principles 
+	- May include but not limited: 
+	- Object-oriented programming paradigm 
+		- Polymorphism 
+		- Inheritance 
+		- Interfaces 
+	- Design patterns 
+		- Singleton 
+		- Observer Pattern 
+		- Visitor Pattern 
+		- Template Pattern 
+		- Bridge or Strategy Pattern 
+- Data structures 
+	- May include but not limited: 
+		- List 
+			- Arrays 
+			- Linked Lists 
+		- Stacks 
+		- Queue 
+		- Trees 
+		- Graphs 
+		- Vectors 
+- Algorithms 
+	- May include but not limited: 
+		- Searching (binary, linear)
+		- Sorting (counting selection quicksort merge)
+		- Broad-Phase Collision Test  
+- Design patterns 
+	- May include but not limited: 
+		- Singleton 
+		- Observer Pattern 
+		- Visitor Pattern 
+		- Template Pattern 
+		- Bridge or Strategy Pattern 
+- Assets 
+	- May include but are not limited: 
+		- Art 
+		- Animation 
+		- Sound 
+- Design patterns 
+	- This refers to generally accepted style and design principles such as: 
+		- Object-oriented design patterns 
+		- Game-design patterns 
+- Game quality assurance (QA)/testing techniques 
+	- May include but not limited to : 
+		- Pair programming 
+		- Focus group discussion (FGD) 
+		- Arcade testing with forms 
+- Game-design concerns 
+	- May include but not limited to : 
+		- Game objects and setting 
+		- Game rules and dynamics 
+		- Play mechanics 
+		- Game goals 
+		- Theme/color
+
+### Evidence Guide
+
+- Critical Aspects of Competency 
+	- Assessment requires evidence that the candidate: 
+		- Game development environment is prepared
+		- Code for game application is written 
+		- Game application or programs is executed and tested 
+- Required Knowledge and Attitude 
+	- Basic interface design; 
+		- use of GUIs for human
+		- computer interaction 
+	- Mathematical concepts and techniques  
+	- Controlling and implementing game systems 
+	- Style and design principles 
+	- Integrated development environment 
+	- Data structures and algorithms 
+	- Program debugging techniques 
+	- Language data-types, operators and expressions 
+	- Approaches to writing or developing game applications/programs 
+	- Knowledge of various documentation tools 
+	- Platforms/Game engines 
+	- Knowledge In Completing a Game with Game Loop 
+	- Language syntax 
+		- Variable setting 
+		- Arithmetic and logic operations 
+		- Conditions 
+		- Loop and branch
+- Required Skills 
+	- Reading and interpreting program specifications, translating requirements from problem space to machine space 
+	- Using Integrated Development Environment (IDE) 
+	- Programming techniques 
+	- Internal (code) documentation techniques 
+	- Testing and debugging techniques 
+	- Documentation techniques 
+	- Planning various programming activities 
+	- Programming in a team environment 
+	- Preparing program documentation 
+	- Interpreting program specifications and user requirements 
+	- Programming a Functional Game-Application with a Game Loop  
+- Resource Implications 
+	- To demonstrate this unit of competence the following resources will be required: 
+		- Programming language and development environment 
+		- User requirements and specifications 
+		- Program and documentation standards 
+		- Personal computer or workstation 
+		- Programming standards - GDD/TDD for a specific game project 
+		- Documentation standards and tools 
+		- Personal computer or workstation with game
+			- development tools 
+- Methods of Assessment 
+	- Competency may be assessed through: 
+		- Observation of real or simulated work processes 
+		- Individual demonstration with oral questioning 
+		- Practical exam 
+		- Game portfolio assessment of work samples 
+- Context of Assessment 
+	- Competency may be assessed in the workplace or in a simulated work environment.
+

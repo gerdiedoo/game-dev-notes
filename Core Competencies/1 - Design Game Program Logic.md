@@ -1,0 +1,88 @@
+*defines the knowledge, skills and attitude required to design various game program logic to ensure that there is understanding of user and design requirements*
+
+- Analyze game specifications
+	- Design documentation is obtained and the requirements for the game are reviewed and clarified based on enterprise standards.
+	- Game technical design is conceptualized based on client requirements.
+	- Program scope and limits are identified/clarified based on project requirements.
+		- determine what is possible based on the client's given timeframe, and available technologies
+		- determine the technologies that the target market have, and identify what is the possible solution
+- Analyze game physics
+	- Identify & Solve physics problems/equations based on GDD.
+	- Determine maximum and/or minimum values, sketch curves, and determine the range for a given domain based on identified physics problem based on enterprise standards.
+	- Convert physics formulas from mathematical notations into syntax based on GDD.
+	- Apply differentiation based on GDD.
+- Prepare technical game documentation
+	- Requirements are transformed to technical design document (TDD) according to enterprise standards.
+	- Program structures are illustrated based on game design document
+	- Special routines or procedures are identified and documented based on project requirements
+	- Resources for coding and testing programs are identified based on project requirements.
+- Validate the technical game documentation
+	- Technical design document is checked for compliance with enterprise documentation standards
+	- Technical design document is checked based on project specifications
+	- Past project documentations are reviewed for comparison with the technical design document.
+
+#### Range of Variables
+
+- Design documentation
+	- Game design document (GDD)
+	- Technical design document (TDD)
+- Differentiation
+	- Gradients
+	- Tangents
+	- Normal
+	- Stationary points
+	- Rates of change
+- Requirements
+	- Data types
+	- Variables
+- Enterprise standards
+	- Code templates
+	- Platform-specific templates, e.g., Android templates
+	- Naming conventions
+- Resources for coding and testing programs
+	- Personnel 
+	- Hardware
+	- Software
+
+#### Evidence Guide
+
+- Critical Aspects of Competency
+	- Assessment requires evidence that the candidate:
+		- Technical game documentation is prepared
+		- Technical game documentation is validated
+		- Game program logic is formulated/designed
+- Required Knowledge and Attitude
+	- Mathematical and science concepts to
+		- Solve spatial problems in 2D and 3D
+		- Simulate movement (objects)
+		- Precision of movement (objects)
+	- Game logic design using construct/modules/objects
+	- concepts of various game program design and system lifecycle options
+	- Game system specifications and requirements
+	- Learning from multiple sources
+	- Researching using library and printed literature
+	- Understanding the expectation
+	- Organizing your thoughts
+	- Organizing projects
+- Required Skills
+	- Applying the use of various design documentation tools
+	- conceptualizing game technical design
+	- Designing and validating program logic and flow 
+	- Combine applicable game programming languages
+	- Using the search engines
+	- Understanding key terminology
+	- Draft a mind map
+	- Task allocation
+- Resource Implication
+	- To demonstrate this unity of competence the following resources will be required:
+		- Program or design specifications
+		- Documentation tools
+		- Personal computer or workstation
+- Methods of Assessment
+	- Competency may be assessed through:
+		- Observation of real or simulated work processes
+		- Individual demonstration with oral questioning
+		- Practical exam
+		- Portfolio assessment of work samples
+- Context of Assessment
+	- Competence may be assessed in the workplace or in a simulated work environment
