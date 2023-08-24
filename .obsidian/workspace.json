@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Assessment Guide/Notes/3.23 Assess Game Prototype to Follow Quality Assurance or Testing Techniques.md",
-                "mode": "preview",
+                "file": "Sorting Algorithms/Counting Sort.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Assessment Guide/Notes/3.23 Assess Game Prototype to Follow Quality Assurance or Testing Techniques.md",
+                "file": "Sorting Algorithms/Counting Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Assessment Guide/Notes/3.23 Assess Game Prototype to Follow Quality Assurance or Testing Techniques.md",
+                "file": "Sorting Algorithms/Counting Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Assessment Guide/Notes/3.23 Assess Game Prototype to Follow Quality Assurance or Testing Techniques.md"
+                "file": "Sorting Algorithms/Counting Sort.md"
               }
             }
           }
@@ -185,6 +185,11 @@
   },
   "active": "321d223795ba87ba",
   "lastOpenFiles": [
+    "Sorting Algorithms/Merge Sort.md",
+    "Sorting Algorithms/Counting Sort.md",
+    "Sorting Algorithms/Quick Sort.md",
+    "Sorting Algorithms/Selection Sort.md",
+    "Self Assessment Guide/Notes/3.23 Assess Game Prototype to Follow Quality Assurance or Testing Techniques.md",
     "Self Assessment Guide/Notes/2.17 Document Activities.md",
     "Self Assessment Guide/Notes/3.25 Optimize a Game Program Based on Project Requirements.md",
     "Self Assessment Guide/Notes/3.24 Address Overall Game Design Concerns.md",
@@ -206,11 +211,6 @@
     "Self Assessment Guide/Notes/3.8 Write Code for Game Application.md",
     "Self Assessment Guide/Notes/2.8 Implement Inheritance to at Least Two Levels of Depth.md",
     "Self Assessment Guide/Notes/3.7 Use and Customize Appropriate Language Syntax for Sequence, Selection, and Iteration Constructs.md",
-    "Self Assessment Guide/Notes/2.7 Enforce a Class's Security Using Encapsulation.md",
-    "Self Assessment Guide/Notes/3.6 Apply Basic Language Syntax and Layout.md",
-    "Self Assessment Guide/Notes/3.5 Set the Necessary Hardware or Software to Code, Compile, and Run Game Development Tools.md",
-    "Self Assessment Guide/Notes/2.5 Implement a Class That Contains Primitive Member or Instance Variables.md",
-    "Self Assessment Guide/Notes/3.4 Prepare Game Development Environment.md",
     "OOP.canvas",
     "Data Structures.canvas",
     "Sorting Algorithms",
