@@ -1,4 +1,6 @@
-
+[[0.1 - Design Game Program Logic]]
+[[0.2 - Apply Object Oriented Programming Language Skills]]
+[[0.3 - Apply Programming Skills for In-Game Application]]
 *topics marked with \* is considered important*  
 ### Design Game Program Logic
 
